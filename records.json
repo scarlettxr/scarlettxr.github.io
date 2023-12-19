@@ -1,14 +1,14 @@
 {
-  "githubid": null,
-  "signer": null,
-  "approval": null,
+  "githubid": "scarlettxr",
+  "signer": "0x3c5dF17eF5e4d919aC6FAa58C053B226b7778b72",
+  "approval": "0x8f265c93e2288bf93e72c07820da65fe2a1c92c4f827adf68172b373624808252411f9b0f9f238b98f651e14baa19cf0f670b29d72f733af1112039695eff0321c",
   "records": {
-    "contenthash": null,
+    "contenthash": "ipfs://Qmdpz91C73nMpryFG1DkhE5kjodVvq6ATAcpqW8LNrHJQu",
     "address": {
-      "eth": null
+      "eth": "0x7Cc5e76b915B8FBc23F46293F0Ce1067eA053b3c"
     },
     "text": {
-      "avatar": null
+      "avatar": "https://scxst0r.4everland.store/profile.png"
     }
   }
 }
